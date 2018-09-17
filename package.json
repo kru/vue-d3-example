@@ -10,6 +10,7 @@
     "test:e2e": "vue-cli-service test:e2e"
   },
   "dependencies": {
+    "buefy": "^0.6.7",
     "d3": "^5.7.0",
     "tween.js": "^16.6.0",
     "vue": "^2.5.17",
